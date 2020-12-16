@@ -1,3 +1,6 @@
+:warning: | **This repository is a fork of [`abstratt/eclipsegraphviz`](https://github.com/abstratt/eclipsegraphviz) used to host a permanent update site as required by the DICE Simulation Tool build scripts ** | :warning:
+----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------
+
 # EclipseGraphviz #
 
 This is the home for the EclipseGraphviz project, originally on SourceForge.
